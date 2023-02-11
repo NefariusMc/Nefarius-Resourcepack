@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "item/diamond"
+  },
+"overrides": 
+[
+  { "predicate": { "custom_model_data": 6380001}, "model": "diamonds/red_diamond"}
+]
+
+}

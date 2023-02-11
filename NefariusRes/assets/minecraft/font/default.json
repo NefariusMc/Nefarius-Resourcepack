@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/clock.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/island.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/money.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/miasto.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/nacja.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/worldfile.png",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["🌍"]
+        }
+    ]
+}
